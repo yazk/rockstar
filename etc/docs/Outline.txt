@@ -1,0 +1,84 @@
+Project Rockstar
+''Easy to use guitar entertainment and learning game''
+
+=Description=
+To create an easy to use guitar game that is both entertainining (i.e. console video games) and educational (i.e. learn how to play the guitar).
+
+=Objectives=
+* Easy to use
+* Entertaining
+* Cost efficent
+* Mass marketable
+
+=Scope=
+
+=Success Criteria=
+* A product on the market that is widely know and accepted for its use.
+
+=Benefits=
+==Users==
+Users of the product will get entertained whilist getting educated on learning how to play the guitar.
+
+==Vendors==
+Product will rely on guitar to pc interfacing, possible venders included but not limited to:
+* Retail Stores
+* Web hosting
+* Chip makers
+* Cable makers
+* Guitar vendors
+* Guitar manfucatureres
+* Guitar teachers
+
+==Misc==
+
+=Competitive Analysis=
+==Audience==
+==Cost Analysis==
+==Conclusion==
+
+=Requirements=
+	==System==
+	* E6400 Pentium Core 2 Duo (Specifications will be laxed after futher testing)
+	==Software==
+	* Windows XP (Specifications will be laxed after futher testing)
+	* .NET 3.0 or greater
+	==User==
+	* Ability to operate guitar and pc with basic knowledge
+	==I/O==
+
+	==Hardware==
+	* Electric guitar with standard output (1/4" phono)
+	* Sound card (or on-board sound) capable of line-in (or mic input) (1/8" digital input)
+	* 1/4" phono to 1/8" digital cable
+	==Communcations==
+	Broadband connection to download additional material (i.e. song files)
+
+=Interface Requirements=
+==Software==
+==Hardware==
+==Communications==
+==User==
+
+=Deployment=
+==Assumptions==
+==Risks==
+==Security==
+
+
+=Product Description=
+==Perspect==
+==Functions==
+==Operating Enviroment==
+
+=Solution Proposal=
+==Overview==
+==Features==
+==Assumptions==
+==Dependicies==
+==Issues==
+==Resources Needed==
+
+=Marketing=
+==Overview==
+Basic Marketing Strategy
+==Pricing==

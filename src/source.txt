@@ -1,0 +1,4 @@
+FFT.java from - http://algs4.cs.princeton.edu/code/javadoc/FFT.html
+Complex.java - http://introcs.cs.princeton.edu/java/97data/Complex.java.html
+
+If I missed any sources, please let me know.
